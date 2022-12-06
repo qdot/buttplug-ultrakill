@@ -1,8 +1,14 @@
 # Buttplug.io proof-of-concept mod for Ultrakill
 
-So [Shammy](https://twitter.com/shammytv) made a tweet about wanting a Buttplug mod for Ultrakill.
+So [Shammy](https://twitter.com/shammytv) made a tweet about wanting a [Buttplug](https://buttplug.io) mod for [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/).
 
 And I made one in a couple of hours, just 'cause I hadn't done a game mod in a while and wanted to see how fast it came together.
+
+**NOTE:** BETTER ULTRAKILL BUTTPLUG MODS ARE COMING. They're just still in development by other devs. Once they're available, I'll add links here.
+
+## I require video proof
+
+[Ok here's a youtube video showing it in action](https://www.youtube.com/watch?v=FVZKfSLxrck)
 
 ## Wait what
 
@@ -54,7 +60,14 @@ You should see "UK.Buttplug Connect" appear in the control panel of Intiface Cen
 
 ## Ok I wanna build it
 
+You'll need to
 
+- Clone [ManagedButtplugio](https://github.com/Er1807/ManagedButtplugIo/) next to this repo. Or go
+  fix up the project files yourself. Whatever. I'm lazy and didn't want to do submodules.
+- Set up the linkage to the Assembly-CSharp DLL included with the version of ULTRAKILL THAT YOU HAVE
+  BOUGHT YOURSELF WITH YOUR OWN MONEY BECAUSE THE DEVELOPERS DESERVE IT.
+- Hit build. It should build. If it doesn't build, file an issue here. I may not really be dedicated
+  enough to add more features here right now but I'll at least make sure the damn thing works.
 
 ## LICENSE
 

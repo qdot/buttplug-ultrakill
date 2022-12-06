@@ -54,8 +54,8 @@
     <Compile Include="ULTRABUTTKILL.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ManagedButtplugIo\ButtplugCSharp\ManagedButtplugIo.csproj">
-      <Project>{8c9dd716-9de8-4a55-a04b-c6e252d10bcb}</Project>
+    <ProjectReference Include="..\ManagedButtplugIo\ButtplugCSharp\ManagedButtplugIo.csproj">
+      <Project>{48234674-3015-4bab-8e38-6eea60ce2329}</Project>
       <Name>ManagedButtplugIo</Name>
     </ProjectReference>
   </ItemGroup>
