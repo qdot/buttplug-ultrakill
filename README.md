@@ -33,6 +33,14 @@ Every time the enemy count changes in the current session (meaning enemies spawn
 
 That's it. That's the mod.
 
+## Ok but have you considered using the style sys...
+
+YES I AM AWARE OF THE STYLE SYSTEM AND YES IT WOULD BE A MUCH BETTER IDEA THAN ENEMY COUNT BUT I WAS TRYING TO GET THIS DONE IN LESS THAN 2 HOURS AND HAD NEVER PLAYED THE GAME BEFORE SO I WENT WITH THE OBVIOUS THING.
+
+I MAY UPDATE FOR STYLE AT SOMEPOINT IN THE FUTURE JUST BECAUSE I WILL BE ENDLESSLY POKED IF I DO NOT.
+
+ugh people all wanting me to heed the defining mechanics and systems of the game or some shit instead of picking a random semi-frequent event
+
 ## Ok I wanna use it
 
 You'll need
