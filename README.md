@@ -11,7 +11,21 @@ Ok so here's the deal. This mod is a **PROOF OF CONCEPT** to show how one would 
 This mod uses:
 
 - [Buttplug.io](https://buttplug.io) for toy control.
-- [ManagedButtplugio]() for 
+  - Using the [ManagedButtplugio](https://github.com/Er1807/ManagedButtplugIo/) C# Client
+    implementation because the official Buttplug.io C# library current sucks (I know, I wrote it).
+
+And copypastas heavily from:
+
+- [Ultrakill One Hit KO Mod](https://github.com/Dazegambler/Ultrakill-OneHitKO) - Because it was
+  suepr simple as a starting framework.
+- [EasyPZ Ultrakill Mod](https://github.com/Hydraxous/EasyPZ-ULTRAKILL/) - Because it had the stats
+  objects access I needed to find some event to trigger some sort of toy control from.
+
+## So what does it do
+
+Every time the enemy count changes in the current session (meaning enemies spawn, or an enemy is killed), all connected devices that support vibration will vibrate all 100% for 500 milliseconds.
+
+That's it. That's the mod.
 
 ## Ok I wanna use it
 
@@ -21,7 +35,8 @@ You'll need
   "hardware hub" program for Buttplug. It's free (and soon to be open source, just finishing up some
   licensing stuff)! It currently works on Windows and Mac, Linux coming soon, Android/iOS apps in
   app store review now!
-- A compatible vibrator (we support like, 200+ in Buttplug.io, see IOSTIndex for a list)
+- A compatible vibrator (we support like, 200+ in Buttplug.io, see IOSTIndex for a list. Good news
+  is: XBOX COMPATIBLE GAMEPADS WORK. YES THIS MOD ALSO JUST ADDS RUMBLE TO ULTRAKILL.)
 - This mod (see the Releases directory)
 
 To install:
