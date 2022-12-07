@@ -1,4 +1,17 @@
+# STOP. DO NOT USE THIS. USE UKBUTT: THE OFFICIAL ULTRAKILL BUTTPLUG.IO MOD
+
+This project is now deprecated in preference to the [OFFICIAL ULTRAKILL BUTTPLUG.IO MOD, UKBUTT](https://github.com/PITR-DEV/ukbutt-mod).
+
+https://github.com/PITR-DEV/ukbutt-mod
+
+This repo will stick around as a fond memory of the dumb project I built in like 2 hours, but if you want something that actually works with Ultrakill the way it was *meant* to be experienced, use UKBUTT.
+
 # Buttplug.io proof-of-concept mod for Ultrakill
+
+[![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/qdot)
+[![Github donate button](https://img.shields.io/badge/github-donate-ff69b4.svg)](https://www.github.com/sponsors/qdot)
+[![Discord](https://img.shields.io/discord/353303527587708932.svg?logo=discord)](https://discord.buttplug.io)
+[![Twitter](https://img.shields.io/twitter/follow/buttplugio.svg?style=social&logo=twitter)](https://twitter.com/buttplugio)
 
 So [Shammy](https://twitter.com/shammytv) made a tweet about wanting a [Buttplug](https://buttplug.io) mod for [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/).
 
